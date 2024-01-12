@@ -1,0 +1,5 @@
+/dist/pages/*
+/app/*
+/node_modules/*
+/package-lock.json
+
