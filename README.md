@@ -1,6 +1,6 @@
 Многостраничный сайт онлайн-курсов "Online Courses on Design and Development"
 
-![img](https://github.com/online.course/main/images/dist/courses.PNG)
+![img](https://github.com/jullinny/online.course/blob/main/images/dist/courses.PNG)
 
 Использовались: 
 1. html
