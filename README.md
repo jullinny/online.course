@@ -1,7 +1,7 @@
-Многостраничный сайт онлайн-курсов ""
+Многостраничный сайт онлайн-курсов "Online Courses on Design and Development"
 
 ![img](https://github.com/online.course/blob/main/images/dist/courses.PNG)
-
+![Image alt](https://github.com/online.course/blob/main/images/dist/courses.PNG)
 Использовались: 
 1. html
 2. SASS
